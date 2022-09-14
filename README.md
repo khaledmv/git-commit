@@ -1,5 +1,5 @@
 
-## Table of Contents
+## Git repository
 
 - git add .
 - git commit -m " < update text > "
