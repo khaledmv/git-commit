@@ -8,7 +8,7 @@
 - git push -u origin Main
 - git branch -b
 - git rm --cache assets/*.css.map
--git checkout -b < new branch >
+- git checkout -b < new branch >
 
 
 ## Git Remote check
