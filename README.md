@@ -11,7 +11,7 @@
 
 ## Git new branch
 - Add -- git checkout -b < new branch >
-- Delete -- git push <remote> --delete <branch>
+- Delete -- git push < remote > --delete < branch >
 - link -
 
 
