@@ -8,3 +8,8 @@
 - git push -u origin Main
 - git branch -b
 - git rm --cache assets/*.css.map
+
+
+
+## Git Remote check
+- git remote -v
