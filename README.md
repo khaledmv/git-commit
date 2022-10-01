@@ -17,3 +17,12 @@
 
 ## Git Remote check
 - git remote -v
+
+
+
+## Laravel Helper
+
+- Enable debug query 
+-> \DB::enableQueryLog();
+->    view()->render();
+-> dd(\DB::getQueryLog());
