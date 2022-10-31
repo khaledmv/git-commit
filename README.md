@@ -28,7 +28,7 @@
 -> dd(\DB::getQueryLog());
 
 
-## image path Helper
+## Image path Helper
 
   $imageUrl = "";
         
