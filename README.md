@@ -37,3 +37,7 @@
             if(file_exists($imagePath)) $imageUrl = asset("img/" . $this->image);
         }
  return $imageUrl;
+ 
+ 
+ ## laravel Mail 
+ php artisan vendor:publish --tag=laravel-mail
