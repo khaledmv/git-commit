@@ -8,6 +8,7 @@
 - git push -u origin Main
 - git rm --cache assets/*.css.map
 - git checkout -b < new branch >
+- Remove Gti cached code is-  git rm -rf --cached .
 
 ## Git new branch
 - Add -- git checkout -b < new branch >
