@@ -15,6 +15,11 @@
 - Delete -- git push < remote > --delete < branch >
 - Link -- <a href="https://www.atlassian.com/git/tutorials/using-branches/git-checkout#:~:text=New%20Branches&text=The%20git%20branch%20command%20can,to%20switch%20to%20that%20branch."> Git new branch help </a>
 
+## …or push an existing repository from the command line
+-- git remote add origin https://github.com/khaledmv/reactDev.git
+-- git branch -M Main
+-- git push -u origin Main
+
 
 ## Git Remote check
 - git remote -v
