@@ -55,3 +55,11 @@
  - py -m pip install Django
  - django-admin startproject mysite
  - py manage.py runserver
+
+  
+  
+  ## Windows helper
+  - SFC /SCANNOW
+  - DISM /Online /Cleanup-Image /CheckHealth
+  - DISM /Online /Cleanup-Image /ScanHealth
+  - DISM /Online /Cleanup-Image /RestoreHealth
