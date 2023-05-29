@@ -50,7 +50,7 @@
  
  ## Django -- 
  
- - py -m venv <project-name>
+ - py -m venv project-name
  - project-name\Scripts\activate.bat
  - py -m pip install Django
  - django-admin startproject mysite
